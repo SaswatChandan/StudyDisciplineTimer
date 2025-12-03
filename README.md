@@ -51,8 +51,8 @@ This tool works well for anyone who wants to:
 ```
 3. When prompted:
 
-Enter your desired interval in minutes
+   * Enter your desired interval in minutes
 
-Enter the message you want displayed when the timer ends
+   * Enter the message you want displayed when the timer ends
 
 The timer will begin and pop up reminders at the specified intervals.

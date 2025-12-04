@@ -56,3 +56,7 @@ This tool works well for anyone who wants to:
    * Enter the message you want displayed when the timer ends
 
 The timer will begin and pop up reminders at the specified intervals.
+
+
+https://github.com/user-attachments/assets/21047638-047d-471b-9d6f-29a8ca41bb48
+
